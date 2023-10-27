@@ -1,4 +1,4 @@
-Hey 👋, I'm Joey!
+Hey 👋, I'm Joe!
 
 I am a Javascript Engineer from Nairobi, Kenya 🇰🇪. I mostly build React apps powered by GraphQL backends. I learn by sharing my knowledge with the community through [blog posts](https://joeynimu.com), workshops, and Open-source.  also hold [Graphql meetups](https://www.meetup.com/Nairobi-GraphQL-Meetup/).
 
